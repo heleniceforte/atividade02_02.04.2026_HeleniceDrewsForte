@@ -1,0 +1,23 @@
+.card{
+    width:200px;
+    border:2px solid black;
+    padding:15px;
+    background:#eee;
+}
+
+.barra{
+    background:#ccc;
+    height:20px;
+}
+
+.vida{
+    background:red;
+    height:20px;
+    width:80%;
+}
+
+.poder{
+    background:blue;
+    height:20px;
+    width:60%;
+}
